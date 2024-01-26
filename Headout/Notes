@@ -1,0 +1,4 @@
+The requirements.txt file includes Flask as a dependency.
+The Python server uses Flask to handle HTTP requests.
+The docker run command specifies the required memory and CPU constraints.
+This example assumes you have a /tmp/data directory with text files named 1.txt, 2.txt, etc.

@@ -1,0 +1,5 @@
+# Build the Docker image
+docker build -t your-image-name .
+
+# Run the Docker container
+docker run -p 8080:8080 --memory=1500m --cpus=2 your-image-name
